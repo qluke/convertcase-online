@@ -9,7 +9,7 @@ import {
     TableContainer,
 } from '@chakra-ui/react';
 
-const IndexTable = ({ dictionary }) => {
+const IndexTables = ({ dictionary }) => {
     return (
         <TableContainer>
             <Table variant='striped' colorScheme='teal'  >
@@ -52,4 +52,4 @@ const IndexTable = ({ dictionary }) => {
     );
 };
 
-export default IndexTable;
+export default IndexTables;

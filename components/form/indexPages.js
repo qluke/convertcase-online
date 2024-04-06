@@ -13,7 +13,7 @@ import {
 import "@/lib/to-title-case.js";
 import { useState, useEffect } from "react";
 
-export default function IndexPage({ dictionary }) {
+export default function IndexPages({ dictionary }) {
   const [inputText, setInputText] = useState("");
   const [charCount, setCharCount] = useState(0);
   const [wordCount, setWordCount] = useState(0);
