@@ -1,4 +1,4 @@
-import getDictionary from "@/i18n/get-dictionary";
+import { getDictionary } from "../../i18n/get-dictionary";
 import LocaleSwitcher from "@/components/navbar/locale-switcher";
 import ThemeSwitcher from "@/components/navbar/theme-switcher";
 import IndexPages from "@/components/form/indexPages";
