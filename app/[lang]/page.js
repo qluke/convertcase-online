@@ -2,8 +2,8 @@ import { getDictionary } from "@/i18n/get-dictionary";
 import LocaleSwitcher from "@/components/navbar/locale-switcher";
 import ThemeSwitcher from "@/components/navbar/theme-switcher";
 import IndexPage from "@/components/form/indexPage";
-import IndexTable from "@/components/form/IndexTable";
-import IndexFooter from "@/components/footer/IndexFooter";
+import IndexTable from "@/components/form/indexTable";
+import IndexFooter from "@/components/footer/indexFooter";
 
 export default async function Home({ params: { lang } }) {
   const dictionary = await getDictionary(lang);
