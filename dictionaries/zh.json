@@ -1,0 +1,41 @@
+{
+  "content": {
+    "title": "英文字母大小写转换",
+    "placeholder": "在此处输入或粘贴需要转换的内容...",
+    "alert": "复制成功!",
+    "sentence_case": "句首字母大写",
+    "lower_case": "全小写",
+    "upper_case": "全大写",
+    "capitalise_case": "单词首字母大写",
+    "title_case": "标题大写",
+    "download": "下载",
+    "copy": "复制",
+    "clear": "清空",
+    "character_count": "字符统计",
+    "word_count": "单词统计",
+    "sentence_count": "句子统计",
+    "line_count": "行数统计"
+  },
+  "info": {
+    "title1": "欢迎使用大小写转换文本生成工具",
+    "title2": "句首字母大写",
+    "title3": "全小写",
+    "title4": "全大写",
+    "title5": "单词首字母大写",
+    "title6": "标题大小写",
+    "title11": "格式",
+    "title12": "示例",
+    "title13": "说明",
+    "paragraph1": "欢迎使用我们的在线文本工具，您可以轻松地在其中在小写字母和大写字母之间切换。请探索下面的选项：",
+    "paragraph2": "句首字母大写是一种文本格式，其中每个句子的第一个单词的首字母大写，其余字母小写。",
+    "paragraph3": "This is an example of sentence case.",
+    "paragraph4": "全小写是将文本中的所有字母都转换为小写字母的格式。",
+    "paragraph5": "This is an example of lower case.",
+    "paragraph6": "全大写是将文本中的所有字母都转换为大写字母的格式。",
+    "paragraph7": "THIS IS AN EXAMPLE OF UPPER CASE.",
+    "paragraph8": "单词首字母大写是一种文本格式，其中每个单词的首字母大写，其余字母小写。",
+    "paragraph9": "This Is An Example Of Capitalized Case.",
+    "paragraph10": "标题大写是一种文本格式，其中标题或标题中的大多数单词的首字母大写，但忽略如“a”、“the”和“of”等小词。",
+    "paragraph11": "This Is an Example of Title Case."
+  }
+}

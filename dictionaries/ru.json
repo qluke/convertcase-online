@@ -1,0 +1,41 @@
+{
+   "content":{
+      "title":"Преобразовать дело онлайн",
+      "placeholder":"Введите или вставьте сюда свой текст...",
+      "alert":"Текст успешно скопирован!",
+      "sentence_case": "Sentence case",
+      "lower_case": "Lower case",
+      "upper_case": "UPPER CASE",
+      "capitalise_case": "Capitalise Case",
+      "title_case": "Title Case",
+      "download":"Загрузить текст",
+      "copy":"Копировать в буфер обмена",
+      "clear":"Очистить",
+      "character_count":"Количество символов",
+      "word_count":"Количество слов",
+      "sentence_count":"Количество предложений",
+      "line_count":"Количество строк"
+   },
+   "info":{
+      "title1":"Добро пожаловать на инструмент конвертера регистра текста",
+        "title2": "Sentence Case",
+        "title3": "Lower Case",
+        "title4": "Upper Case",
+        "title5": "Capitalise Case",
+        "title6": "Title Case",
+      "title11":"Стиль регистра",
+      "title12":"Пример",
+      "title13":"Описание",
+      "paragraph1":"Используйте нашу удобную онлайн-инструмент, где вы можете легко переключаться между заглавными, строчными и заголовками. Просмотрите ниже:",
+      "paragraph2":"Начальное большой буквы — это стиль, когда только первая слово предложения начинается с большой буквы, остальные слова — строчными.",
+      "paragraph3":"This is an example of sentence case.",
+      "paragraph4":"Строчные буквы — когда все буквы в тексте написаны строчными.",
+      "paragraph5":"This is an example of lower case.",
+      "paragraph6":"ЗАГЛАВНЫЕ БУКВЫ — когда все буквы в тексте написаны заглавными.",
+      "paragraph7":"THIS IS AN EXAMPLE OF UPPER CASE.",
+      "paragraph8":"Капитализация — стиль, когда первая буква каждого слова написана заглавной, остальные — строчными.",
+      "paragraph9":"This Is An Example Of Capitalized Case.",
+      "paragraph10":"Заглавные буквы в заголовках — стиль, когда в заголовках или заголовках большинство слов написаны заглавными, за исключением некоторых маленьких слов, таких как `a`, `the` и `of`.",
+      "paragraph11":"This Is an Example of Title Case."
+   }
+}

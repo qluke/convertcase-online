@@ -1,0 +1,41 @@
+{
+   "content":{
+      "title":"تحويل الحروف عبر الإنترنت",
+      "placeholder":"اكتب أو قم بتعليق نصك هنا...",
+      "alert":"تم نسخ النص بنجاح!",
+      "sentence_case": "Sentence case",
+      "lower_case": "Lower case",
+      "upper_case": "UPPER CASE",
+      "capitalise_case": "Capitalise Case",
+      "title_case": "Title Case",
+      "download":"نزّل النص",
+      "copy":"نسخ إلى الحافظة",
+      "clear":"مسح",
+      "character_count":"عدد الحروف",
+      "word_count":"عدد الكلمات",
+      "sentence_count":"عدد الجمل",
+      "line_count":"عدد السطور"
+   },
+   "info":{
+      "title1":"مرحبًا بك في أداة مولد نص تحويل الحروف",
+      "title2": "Sentence Case",
+     "title3": "Lower Case",
+     "title4": "Upper Case",
+     "title5": "Capitalise Case",
+     "title6": "Title Case",
+      "title11":"نمط الحروف",
+      "title12":"مثال",
+      "title13":"وصف",
+      "paragraph1":"اكتشف أداة النص عبر الإنترنت سهلة الاستخدام لدينا، حيث يمكنك بسهولة التبديل بين الحروف الكبيرة والحروف الصغيرة والحروف الكبيرة في العنوان. استكشف أدناه: ",
+      "paragraph2":"الحروف الكبيرة في الجملة هي نمط الكتابة حيث يتم كتابة أول كلمة الجملة بحرف كبير. يتم كتابة الكلمات الأخرى بحروف صغيرة. ",
+      "paragraph3":"This is an example of sentence case.",
+      "paragraph4":"الحروف الصغيرة هي عندما يتم كتابة جميع الحروف في نص بحروف صغيرة. ",
+      "paragraph5":"This is an example of lower case.",
+      "paragraph6":"الحروف الكبيرة هي عندما يتم كتابة جميع الحروف في نص بحروف كبيرة. ",
+      "paragraph7":"THIS IS AN EXAMPLE OF UPPER CASE.",
+      "paragraph8":"الحروف الكبيرة هي نمط الكتابة حيث يتم كتابة أول حرف من كل كلمة بحرف كبير (حرف كبير) ، وتبقى الحروف الأخرى بحروف صغيرة (حروف صغيرة). ",
+      "paragraph9":"This Is An Example Of Capitalized Case.",
+      "paragraph10":"حالة العنوان هي أسلوب كتابة يتم فيه كتابة معظم الكلمات في العنوان أو العنوان بالأحرف الكبيرة باستثناء بعض الكلمات الصغيرة مثل \"a\" و\"the\" و\"of\".",
+      "paragraph11": "This Is an Example of Title Case."
+   }
+}

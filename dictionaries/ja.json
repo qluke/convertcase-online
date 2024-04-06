@@ -1,0 +1,41 @@
+{
+  "content": {
+    "title": "オンライン大文字小文字変換",
+    "placeholder": "ここに文字を入力または貼み込んでください...",
+    "alert": "文字をコピーしました！",
+    "sentence_case": "Sentence case",
+    "lower_case": "Lower case",
+    "upper_case": "UPPER CASE",
+    "capitalise_case": "Capitalise Case",
+    "title_case": "Title Case",
+    "download": "文字をダウンロード",
+    "copy": "クリップボードにコピー",
+    "clear": "クリア",
+    "character_count": "文字数",
+    "word_count": "単語数",
+    "sentence_count": "文数",
+    "line_count": "行数"
+  },
+  "info": {
+    "title1": "大文字小文字変換ツールへようこそ",
+    "title2": "Sentence Case",
+    "title3": "Lower Case",
+    "title4": "Upper Case",
+    "title5": "Capitalise Case",
+    "title6": "Title Case",
+    "title11": "形式",
+    "title12": "例",
+    "title13": "説明",
+    "paragraph1": "大文字、小文字、見出し形式を簡単に切り替えできる便利なオンラインテキストツールをご覧ください。以下をご覧ください：",
+    "paragraph2": "文の開始大文字は、文の最初の単語の最初の文字を大文字で書き、他の文字を小文字で書くスタイルです。",
+    "paragraph3": "This is an example of sentence case.",
+    "paragraph4": "小文字は、テキスト内のすべての文字を小文字で書くスタイルです。",
+    "paragraph5": "This is an example of lower case.",
+    "paragraph6": "大文字は、テキスト内のすべての文字を大文字で書くスタイルです。",
+    "paragraph7": "THIS IS AN EXAMPLE OF UPPER CASE.",
+    "paragraph8": "各単語の開始大文字は、各単語の最初の文字を大文字で、残りの文字を小文字で書くスタイルです。",
+    "paragraph9": "This Is An Example Of Capitalized Case.",
+    "paragraph10": "見出し形式は、見出しや標題内のほとんどの単語を大文字に書くスタイルです。ただし、`a`、`the`、`of` 等の小さな単語は除きます。",
+    "paragraph11": "This Is an Example of Title Case."
+  }
+}

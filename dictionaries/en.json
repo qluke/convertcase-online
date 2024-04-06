@@ -1,0 +1,41 @@
+{
+  "content": {
+    "title": "Convert Case Online",
+    "placeholder": "Type or paste your text here...",
+    "alert": "Text copied successfully!",
+    "sentence_case": "Sentence case",
+    "lower_case": "Lower case",
+    "upper_case": "UPPER CASE",
+    "capitalise_case": "Capitalise Case",
+    "title_case": "Title Case",
+    "download": "Download Text",
+    "copy": "Copy to Clipboard",
+    "clear": "Clear",
+    "character_count": "Character Count",
+    "word_count": "Word Count",
+    "sentence_count": "Sentence Count",
+    "line_count": "Line Count"
+  },
+  "info": {
+    "title1": "Welcome to the Convert Case Text Generator Tool",
+    "title2": "Sentence Case",
+    "title3": "Lower Case",
+    "title4": "Upper Case",
+    "title5": "Capitalise Case",
+    "title6": "Title Case",
+    "title11": "Case style",
+    "title12": "Example",
+    "title13": "Description",
+    "paragraph1": "Discover our convenient online text tool, where you can effortlessly toggle between uppercase, lowercase, and title case. Explore below: ",
+    "paragraph2": "Sentence case is a writing style where only the first word of a sentence is written with a capital letter. Other words are written in lowercase. ",
+    "paragraph3": "This is an example of sentence case.",
+    "paragraph4": "Lower case is when all the letters in a text are written as small letters. ",
+    "paragraph5": "This is an example of lower case.",
+    "paragraph6": "Upper case is when all the letters in a text are written as big letters. ",
+    "paragraph7": "THIS IS AN EXAMPLE OF UPPER CASE.",
+    "paragraph8": "Capitalized case is a writing style where the first letter of each word is made uppercase (big letter), and the rest of the letters are lowercase (small letters). ",
+    "paragraph9": "This Is An Example Of Capitalized Case.",
+    "paragraph10": "Title case is a writing style where most words in a title or heading are capitalized except for certain small words like `a` `the` and `of`. ",
+    "paragraph11": "This Is an Example of Title Case."
+  }
+}

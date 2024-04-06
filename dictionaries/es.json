@@ -1,0 +1,41 @@
+{
+  "content": {
+    "title": "Convertir casos en línea",
+    "placeholder": "Escribe o pega tu texto aquí...",
+    "alert": "¡Texto copiado correctamente!",
+    "sentence_case": "Sentence case",
+    "lower_case": "Lower case",
+    "upper_case": "UPPER CASE",
+    "capitalise_case": "Capitalise Case",
+    "title_case": "Title Case",
+    "download": "Descargar texto",
+    "copy": "Copiar a portapapeles",
+    "clear": "Claro",
+    "character_count": "Conteo de caracteres",
+    "word_count": "Conteo de palabras",
+    "sentence_count": "Conteo de frases",
+    "line_count": "Conteo de líneas"
+  },
+  "info": {
+    "title1": "Bienvenido a la herramienta de generación de texto Convertir casos",
+    "title2": "Sentence Case",
+    "title3": "Lower Case",
+    "title4": "Upper Case",
+    "title5": "Capitalise Case",
+    "title6": "Title Case",
+    "title11": "Estilo de caso",
+    "title12": "Ejemplo",
+    "title13": "Descripción",
+    "paragraph1": "Descubre nuestra cómoda herramienta de texto en línea, donde puedes cambiar fácilmente entre mayúsculas, minúsculas y caso de título. Explora a continuación: ",
+    "paragraph2": "El caso de frase es un estilo de escritura donde solo la primera palabra de una frase se escribe con una letra mayúscula. Las otras palabras se escriben en minúsculas. ",
+    "paragraph3": "This is an example of sentence case.",
+    "paragraph4": "Minúsculas es cuando todas las letras de un texto se escriben en minúsculas. ",
+    "paragraph5": "This is an example of lower case.",
+    "paragraph6": "MAYÚSCULAS es cuando todas las letras de un texto se escriben en mayúsculas. ",
+    "paragraph7": "THIS IS AN EXAMPLE OF UPPER CASE.",
+    "paragraph8": "El caso inicial mayúscula es un estilo de escritura donde la primera letra de cada palabra se escribe en mayúscula, y las demás letras en minúsculas. ",
+    "paragraph9": "This Is An Example Of Capitalized Case.",
+    "paragraph10": "El caso de título es un estilo de escritura donde la mayoría de las palabras en un título o encabezado se escriben en mayúscula, excepto ciertas palabras pequeñas como `a`, `the` y `of`. ",
+    "paragraph11": "This Is an Example of Title Case."
+  }
+}
