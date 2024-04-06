@@ -10,7 +10,7 @@ import {
 import * as React from "react";
 import { FaGithub } from "react-icons/fa";
 
-export default function IndexFooter() {
+const IndexFooters = () => {
   const handleGitHubClick = () => {
     window.location.href = "https://github.com/qluke/convertcase-online";
   };
@@ -40,3 +40,5 @@ export default function IndexFooter() {
     </Container>
   );
 }
+
+export default IndexFooters;

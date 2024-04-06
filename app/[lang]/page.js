@@ -3,7 +3,7 @@ import LocaleSwitcher from "@/components/navbar/locale-switcher";
 import ThemeSwitcher from "@/components/navbar/theme-switcher";
 import IndexPage from "@/components/form/indexPage";
 import IndexTable from "@/components/form/indexTable";
-import IndexFooter from "@/components/footer/indexFooter";
+import IndexFooters from "@/components/footer/indexFooters";
 
 export default async function Home({ params: { lang } }) {
   const dictionary = await getDictionary(lang);
@@ -13,7 +13,7 @@ export default async function Home({ params: { lang } }) {
       <LocaleSwitcher />
       <IndexPage dictionary={dictionary.content} />
       <IndexTable dictionary={dictionary.info} />
-      <IndexFooter/>
+      <IndexFooters />
     </div>
   );
 }
